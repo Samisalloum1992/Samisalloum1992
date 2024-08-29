@@ -1,0 +1,1 @@
+•	Sprint 7: Zomato between success and challenges: This project studies Zomato's business model and how it grew in 2018. It discusses the challenges that Zomato faced during the COVID-19 pandemic and how it impacted its business. Plus this project analyzes popularity, affordability, and revenues by cuisines as well as restaurants.
