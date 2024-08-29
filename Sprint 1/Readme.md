@@ -1,0 +1,1 @@
+Sprint 1: Airbnb in Manhattan: this project analyzes the vacation rental market in the Manhattan borough of New York City. It provides guidance on what types of properties the Client should be targeting in their investments. (Excel)
